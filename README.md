@@ -6,4 +6,6 @@ This idea is based on two papers in Simulation-Based Inference (SBI) community:
 **Flow Matching for Scalable Simulation-Based Inference**: https://arxiv.org/abs/2305.17161 <br>
 **Truncated proposals for scalable and hassle-free simulation-based inference:** https://arxiv.org/abs/2210.04815
 
-This idea is previously applied in Truncated Sequential Neural Posterior Score Estimation (TSNPSE), which is the integration of diffusion model and truncated approach.
+This idea is previously applied in Truncated Sequential Neural Posterior Score Estimation (TSNPSE), which is the integration of diffusion model and truncated approach. TSNPSE algorithm is first introduced in paper below.
+
+**Sequential Neural Score Estimation: Likelihood-Free Inference with Conditional Score Based Diffusion Models:** https://arxiv.org/abs/2210.04872
